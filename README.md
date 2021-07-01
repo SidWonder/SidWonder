@@ -1,21 +1,12 @@
 
 ### Привет! 👋
 
-## Меня зовут ✨_Олег_✨, и я front-end разработчик. 
+## Меня зовут ✨*Олег*✨, и я front-end разработчик. 
+- 🔭 Я начинающий разработчик и работаю в компании [Diginetica](https://anyquery.diginetica.com/). Основной продукт компании - умный поиск, который использует большое количество российских онлайн-магазинов. Среди наших клиентов как крупные, так и маленькие магазины. 
+- 🌱 Сейчас я изучаю веб-разработку в [Яндекс.Практикум](https://praktikum.yandex.ru/profile/web/)
+- 📫 С мной можно связаться по почте o.mildzikhov@mail.ru . Также внизу ссылки на мои соцсети.
 
-<!--
-**SidWonder/SidWonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Позвони, мне, позвони 🖖🏻:
 [<img align="left" height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
