@@ -2,9 +2,31 @@
 ### Привет! 👋
 
 ## Меня зовут ✨*Олег*✨, и я front-end разработчик. 
-- 🔭 Я начинающий разработчик и работаю в компании [Diginetica](https://anyquery.diginetica.com/). Основной продукт компании - умный поиск, который использует большое количество российских онлайн-магазинов. Среди наших клиентов как крупные, так и маленькие магазины. 
+- 🔭 Я работаю в компании [Diginetica](https://anyquery.diginetica.com/). Основной продукт компании - умный поиск, который использует большое количество российских онлайн-магазинов. Среди наших клиентов как крупные, так и маленькие магазины. 
 - 🌱 Сейчас я изучаю веб-разработку в [Яндекс.Практикум](https://praktikum.yandex.ru/profile/web/)
 - 📫 С мной можно связаться по почте o.mildzikhov@mail.ru . Также внизу ссылки на мои соцсети.
+
+---
+
+
+### Мой стек ⚒:
+
+Инструменты, которые я использую как по работе, так и в личных проектах
+
+<div>
+  <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
+  <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+  <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+</div>
+
+---
 
 ### Позвони, мне, позвони 🖖🏻:
 [<img align="left" height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
