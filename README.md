@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[facebook]: https://www.facebook.com/o.mildz/
+[linkedin]: https://www.linkedin.com/in/omildzi/
+<br />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidWonder)](https://github.com/anuraghazra/github-readme-stats)
+[facebook]: https://www.facebook.com/o.mildz/
+[linkedin]: https://www.linkedin.com/in/omildzi/
