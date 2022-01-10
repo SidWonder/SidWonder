@@ -30,7 +30,7 @@
 
 ---
 
-### Позвони, мне, позвони 🖖🏻:
+### Позвони мне, позвони 🖖🏻:
 [<img align="left" height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
